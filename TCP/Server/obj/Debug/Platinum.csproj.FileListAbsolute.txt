@@ -1,0 +1,10 @@
+C:\Users\marig\source\repos\Platinum\Platinum\bin\Debug\Platinum.exe.config
+C:\Users\marig\source\repos\Platinum\Platinum\bin\Debug\Platinum.exe
+C:\Users\marig\source\repos\Platinum\Platinum\bin\Debug\Platinum.pdb
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.csprojAssemblyReference.cache
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.Form1.resources
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.Properties.Resources.resources
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.csproj.GenerateResource.cache
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.csproj.CoreCompileInputs.cache
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.exe
+C:\Users\marig\source\repos\Platinum\Platinum\obj\Debug\Platinum.pdb
